@@ -32,7 +32,7 @@ yarn add
 
 ## Learn More
 
-You can learn test it in your machine using: [NetFlix-Clone](https://netflix-clone-db8b5.web.app/).
+You can test it in your machine using: [NetFlix-Clone](https://netflix-clone-db8b5.web.app/).
 
 # License
 
