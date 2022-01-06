@@ -36,4 +36,4 @@ You can test it in your machine using: [NetFlix-Clone](https://netflix-clone-db8
 
 # License
 
-© Feito com muito &#10084; por [Ramon Pereira](https://www.linkedin.com/in/ramon-pereira88/) 🤝
+© Developed with plenty of &#10084; by [Ramon Pereira](https://www.linkedin.com/in/ramon-pereira88/) 🤝
