@@ -20,6 +20,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
     fetchData();
   }, [fetchUrl]);
 
+  // These options are required by react-youtube and they are the basic settings for the video to play
   const opts = {
     height: "390",
     width: "100%",
